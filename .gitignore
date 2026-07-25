@@ -1,0 +1,10 @@
+.env
+*.log
+
+data/
+work/
+
+.vscode/
+.idea/
+
+.DS_Store
